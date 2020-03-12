@@ -1,0 +1,1 @@
+The video will be located in the Video folder.
